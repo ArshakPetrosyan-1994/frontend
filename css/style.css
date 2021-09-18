@@ -28,8 +28,8 @@ header{
 .heading{
     font-size: 90px;
     font-weight: 600;
-    color: rgb(32, 22, 22);
-    font-family: 'Grey Qo', cursive;
+    color: grey;
+    font-family: 'Dosis', sans-serif;
 }
 .has-search .form-control {
     padding-left: 2.375rem;
