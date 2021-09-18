@@ -31,6 +31,16 @@ header{
     color: grey;
     font-family: 'Dosis', sans-serif;
 }
+.has-search input{
+    border: 0;
+    background-color: rgba(128, 8, 68, 0.8);
+    color: gray;
+    font-weight: bold;
+}
+.has-search input::placeholder{
+    color: gray;
+    font-weight: bold;
+}
 .has-search .form-control {
     padding-left: 2.375rem;
 }
